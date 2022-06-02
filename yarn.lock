@@ -1483,7 +1483,7 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
-"@react-native-async-storage/async-storage@^1.17.6":
+"@react-native-async-storage/async-storage@~1.17.3":
   version "1.17.6"
   resolved "https://registry.yarnpkg.com/@react-native-async-storage/async-storage/-/async-storage-1.17.6.tgz#ddb3520d051f71698c8a0e79e8959a7bf6d9f43b"
   integrity sha512-XXnoheQI3vQTQmjphdXNLTmtiKZeRqvI8kPQ25X5Eae7nZjdYEEGN+0z8N2qyelbUIQwKgmW0aagJk56q7DyNg==
@@ -4748,10 +4748,9 @@ ms@2.1.3, ms@^2.1.1:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.3.tgz#574c8138ce1d2b5861f0b44579dbadd60c6615b2"
   integrity sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==
 
-mst-async-storage@^0.4.0:
+"mst-async-storage@https://github.com/danstepanov/mst-async-storage.git":
   version "0.4.0"
-  resolved "https://registry.yarnpkg.com/mst-async-storage/-/mst-async-storage-0.4.0.tgz#f9277b16814f1048680854ae30730e32fc14c85c"
-  integrity sha512-y875VEqV3IzYfyvOuBdSHzjl8GQ7qzhYO54uNiKYTakiw+L1l6vc/Fvow8TAUIc9QURaRev71Gw+7s8c7VvFoA==
+  resolved "https://github.com/danstepanov/mst-async-storage.git#22a6fe49bc0787e82d69f0ff070ea7192a9fb526"
 
 mv@~2:
   version "2.1.1"
